@@ -1,4 +1,4 @@
-# Discord Clone - Final Delivery
+# Discord Clone 
 
 ## Video Walkthrough
 [![Discord Clone Demo](https://img.youtube.com/vi/j640v_kySnI/maxresdefault.jpg)](https://youtu.be/j640v_kySnI)
